@@ -1,0 +1,23 @@
+{
+  "name": "dropbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouTwitFace/DropBot.git"
+  },
+  "author": "YouTwitFace <contact@lungers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YouTwitFace/DropBot/issues"
+  },
+  "homepage": "https://github.com/YouTwitFace/DropBot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  }
+}
